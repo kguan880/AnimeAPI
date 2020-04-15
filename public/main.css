@@ -1,0 +1,12 @@
+body{
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    background-image: url('https://starkovtattoo.spb.ru/images/400/DSC100494782.png');
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    color: white;
+}
+
